@@ -1,0 +1,23 @@
+{
+  "name": "creat-react-app",
+  "version": "1.0.0",
+  "description": "Create a react project using typescript, babel and eslint",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamHuadong/creat-react-app.git"
+  },
+  "author": "chd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamHuadong/creat-react-app/issues"
+  },
+  "homepage": "https://github.com/IamHuadong/creat-react-app#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.2.0"
+  }
+}
